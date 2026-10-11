@@ -1,0 +1,13 @@
+# Local runtime configuration and state.
+config.txt
+data/
+
+# Build outputs.
+*.exe
+main
+main_new.exe
+
+# Go build/test cache when created inside the repo.
+.gocache/
+
+*.tmp
